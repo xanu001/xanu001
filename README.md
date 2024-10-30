@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Lua       |
+|     3| Javascript|
+
 <!--
 **xanu001/xanu001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
