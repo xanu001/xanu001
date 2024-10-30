@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Tom—a developer looking for work.
+I've been creating and collaborating since 2020.
+
 - 🔭 I’m currently working on cheapboosts & other client's websites.
 - 🌱 I’m currently learning Python & React, NextJS.
 - 👯 I’m looking to collaborate on many different projects.
