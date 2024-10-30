@@ -1,5 +1,5 @@
 ## Hi there 👋 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 I'm Tom—a developer looking for work.
 I've been creating and collaborating since 2020.
