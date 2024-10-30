@@ -10,7 +10,8 @@ I've been creating and collaborating since 2020.
 - 💬 Ask me about anything, I'm open to help :)
 - 📫 How to reach me: You can reach me at discord (xen._._)
 - 😄 Pronouns: He/Him
--->
+
+> Open for work and collaboration
 
 
 <details>
