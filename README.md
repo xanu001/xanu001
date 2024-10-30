@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on cheapboosts & other client's websites.
+- 🌱 I’m currently learning Python & React, NextJS.
+- 👯 I’m looking to collaborate on many different projects.
+- 🤔 I’m looking for help with captcha and automated tools.
+- 💬 Ask me about anything, I'm open to help :)
+- 📫 How to reach me: You can reach me at discord (xen._._)
+- 😄 Pronouns: He/Him
+
+
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
