@@ -1,6 +1,8 @@
 ## Hi there 👋 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xanu001)](https://github.com/anuraghazra/github-readme-stats)
+
 I'm Tom—a developer looking for work.
 I've been creating and collaborating since 2020.
 
@@ -11,6 +13,8 @@ I've been creating and collaborating since 2020.
 - 💬 Ask me about anything, I'm open to help :)
 - 📫 How to reach me: You can reach me at discord (xen._._)
 - 😄 Pronouns: He/Him
+
+
 
 > Open for work and collaboration
 
