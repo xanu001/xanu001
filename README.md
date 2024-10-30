@@ -13,13 +13,15 @@ I've been creating and collaborating since 2020.
 -->
 
 
-
-
+<details>
+<summary>My top languages</summary>
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
 |     2| Lua       |
 |     3| Javascript|
+</details>
+
 
 <!--
 **xanu001/xanu001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
